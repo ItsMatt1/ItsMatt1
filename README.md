@@ -1,16 +1,11 @@
-### Hi there 👋
+Hello!
 
-<!--
-**ItsMatt1/ItsMatt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Unity 2D game.
+- 🌱 I’m currently learning C and C#.
+- 📫 How to reach me:
+- ° Discord: ItsMatt1#6349
+-  mattdmr01@gmail.com
+-  
+- ⚡ Fun fact: I'm into animes and games.
+° MyAnimeList: https://myanimelist.net/profile/ItxMatt
+° Steam: https://steamcommunity.com/id/Matdm1/
