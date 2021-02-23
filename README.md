@@ -1,4 +1,4 @@
-Hello! My name is Matheus, i'm a software engineer student at UFG (Brazil).
+##   Hello! My name is Matheus, i'm a software engineer student at UFG (Brazil).
 
 
 - 🔭 I’m currently working on Unity 2D game.
@@ -12,5 +12,5 @@ Hello! My name is Matheus, i'm a software engineer student at UFG (Brazil).
 - MyAnimeList: https://myanimelist.net/profile/ItxMatt
 - Steam: https://steamcommunity.com/id/Matdm1/
 - I can speak english properly but my main language is English.
-- 
-![Image of Berserk Manga](https://pbs.twimg.com/media/ELx8fW5XsAMya35?format=jpg&name=large)
+
+![Image of Berserk Manga](https://pbs.twimg.com/media/ELx8fW5XsAMya35?format=jpg&name=small)
