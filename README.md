@@ -1,5 +1,5 @@
-##   Hello! Welcome to my Github Profile.
-# My name is Matheus, i'm a software engineer student at UFG (Brazil).
+##    Hello! Welcome to my Github Profile.
+### My name is Matheus, i'm a software engineer student at UFG (Brazil).
 
 - 🔭 I’m currently working on Unity 2D game.
 - 🌱 I’m currently learning C and C#.
