@@ -1,11 +1,14 @@
-Hello!
+Hello! My name is Matheus, i'm a software engineer student at UFG (Brazil).
+
 
 - 🔭 I’m currently working on Unity 2D game.
 - 🌱 I’m currently learning C and C#.
 - 📫 How to reach me:
 - ° Discord: ItsMatt1#6349
--  mattdmr01@gmail.com
+- ° Gmail: mattdmr01@gmail.com
 -  
-- ⚡ Fun fact: I'm into animes and games.
+- ⚡ Fun facts:
+- I'm into animes and games.
 - ° MyAnimeList: https://myanimelist.net/profile/ItxMatt
-° Steam: https://steamcommunity.com/id/Matdm1/
+- ° Steam: https://steamcommunity.com/id/Matdm1/
+- I can speak english properly but my main language is English.
