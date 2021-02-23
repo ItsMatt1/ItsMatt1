@@ -7,5 +7,5 @@ Hello!
 -  mattdmr01@gmail.com
 -  
 - ⚡ Fun fact: I'm into animes and games.
-° MyAnimeList: https://myanimelist.net/profile/ItxMatt
+- ° MyAnimeList: https://myanimelist.net/profile/ItxMatt
 ° Steam: https://steamcommunity.com/id/Matdm1/
