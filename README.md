@@ -11,6 +11,6 @@
 - I'm into animes and games.
 - MyAnimeList: https://myanimelist.net/profile/ItxMatt
 - Steam: https://steamcommunity.com/id/Matdm1/
-- I can speak english properly but my main language is English.
+- I can speak english properly but my main language is Portuguese.
 
 ![Image of Berserk Manga](https://pbs.twimg.com/media/ELx8fW5XsAMya35?format=jpg&name=small)
