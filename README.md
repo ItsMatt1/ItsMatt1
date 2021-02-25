@@ -14,3 +14,5 @@
 - I can speak english properly but my main language is Portuguese.
 
 ![Image of Berserk Manga](https://pbs.twimg.com/media/ELx8fW5XsAMya35?format=jpg&name=small)
+
+"Eu não vou trair meu sonho, só isso."
