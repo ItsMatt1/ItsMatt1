@@ -13,6 +13,6 @@
 - Steam: https://steamcommunity.com/id/Matdm1/
 - I can speak english properly but my main language is Portuguese.
 
-![Image of Berserk Manga](https://pbs.twimg.com/media/ELx8fW5XsAMya35?format=jpg&name=small)
+![Image of Berserk Manga](https://i.imgur.com/1BCJuB5.png)
 
 "Eu não vou trair meu sonho, só isso."
