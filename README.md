@@ -10,7 +10,5 @@
 - Gmail: mattdmr01@gmail.com
 -  
 - ⚡ Fun facts:
-- I'm into animes and games.
-- MyAnimeList: https://myanimelist.net/profile/ItxMatt
-- Steam: https://steamcommunity.com/id/Matdm1/
-- I can speak english properly but my main language is Portuguese.
+- I speak advanced English and my main language is Portuguese.
+- I'm learning Japanese.
